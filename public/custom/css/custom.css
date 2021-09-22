@@ -1,0 +1,36 @@
+.sortable-link-text a {
+    color: black;
+}
+
+.yellow {
+    color: #ffcc00;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+
+.red {
+    color: #cc0000;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+
+.blue {
+    color: #00bfff;
+}
+
+.side {
+    color: #fff;
+    background-color: #000033;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+.sides:hover {
+    color: #000033;
+    background-color: #fff;
+}
+
+.pending {
+    color: #ff8000;
+}
+
+
